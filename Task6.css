@@ -1,0 +1,29 @@
+h1 {
+    color: navy;
+    margin-bottom: 10px;
+}
+
+form {
+    border: 2px solid black;
+    width: 50%;
+    background-color: rgb(165, 226, 246);
+
+}
+
+table {
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.blue {
+    color: rgb(10, 98, 153);
+    font-weight: bold;
+}
+
+.submit {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
